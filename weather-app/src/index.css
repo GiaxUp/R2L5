@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Gluten&display=swap");
+
+body {
+  margin: 0;
+  font-family: "Gluten", cursive !important;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: rgb(194, 147, 221);
+  background-image: radial-gradient(circle, #e0c1d8 0%, #9b7aa5 100%);
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New", monospace;
+}
