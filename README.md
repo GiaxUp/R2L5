@@ -1,6 +1,8 @@
 # Weather App (using React) @ Epicode
 
-## API inside the project
+Made in a day for the end of the Unit 3 Week 2.
+
+## API fetched inside the project
 
 1. For the search bar and to get the latitude and the longitude of the cities
 https://rapidapi.com/wirefreethought/api/geodb-cities/
